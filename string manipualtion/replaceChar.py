@@ -1,6 +1,3 @@
-#21/01/2023
-#Author: dominicOT
-
 name_str = "dominic_OT"
 new_str = name_str.replace("_", "")
 
