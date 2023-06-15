@@ -8,7 +8,7 @@ The ` for loop ` is used to iterate over a sequence such as a list, tuple, strin
 
 ### Syntax
 `
-for item in sequence: <br> 
+for item in sequence:  \
     # block to be executed
 `  
 
@@ -25,3 +25,32 @@ Output:
 apple
 banana
 cherry
+
+while loop:
+The while loop repeatedly executes a block of code as long as a specified condition is true. It has the following syntax:
+
+python
+Copy code
+while condition:
+    # Code block to be executed
+The loop continues until the condition becomes false. It's important to ensure that the condition eventually becomes false; otherwise, the loop will run indefinitely.
+
+Here's an example that counts from 1 to 5 using a while loop:
+
+python
+Copy code
+count = 1
+while count <= 5:
+    print(count)
+    count += 1
+Output:
+
+Copy code
+1
+2
+3
+4
+5
+Both types of loops can be controlled using statements like break (to exit the loop prematurely), continue (to skip the rest of the current iteration and move to the next one), and else (to execute a block of code when the loop finishes normally without encountering a break statement).
+
+Loops are powerful tools for iterating over data structures, performing repetitive tasks, and implementing algorithms that require repetitive operations.
