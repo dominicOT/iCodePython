@@ -10,7 +10,7 @@ The ` for loop ` is used to iterate over a sequence such as a list, tuple, strin
 `
 for item in sequence:
     # block to be executed
-`
+`  
 
 #### In each iteration, the loop variable (item in the example) takes the value of the next element in the sequence. The loop continues until all elements in the sequence are exhausted.
 
