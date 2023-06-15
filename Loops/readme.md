@@ -8,7 +8,7 @@ The ` for loop ` is used to iterate over a sequence such as a list, tuple, strin
 
 ### Syntax
 `
-for item in sequence:
+for item in sequence:  
     # block to be executed
 `  
 
