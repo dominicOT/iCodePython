@@ -1,5 +1,5 @@
 # Python Loops
-Python loops are programming constructs that allow coders to repeatedly execute a block of code until a certain condition is met. 
+Python loops are programming constructs that allow coders to repeatedly execute a block of code until a certain condition is met. <br>
 There are two main types of loops in Python.
 
 
@@ -8,7 +8,7 @@ The ` for loop ` is used to iterate over a sequence such as a list, tuple, strin
 
 ### Syntax
 `
-for item in sequence:  
+for item in sequence: <br> 
     # block to be executed
 `  
 
