@@ -21,5 +21,5 @@ After you've cloned the repository, you can navigate to the directory containing
 
 
 # Contributing
-If you'd like to contribute to this repository, please fork the repository and create a pull request. All contributions are welcome 😊, including bug fixes, feature requests, new scripts and comments.
+If you'd like to contribute to this repository, please fork the repository and create a pull request. All contributions are welcome 😊.
 
