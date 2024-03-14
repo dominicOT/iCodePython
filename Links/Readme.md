@@ -1,4 +1,5 @@
 # Links to Various Resources and Platforms 
 
-### https://realpython.com/beautiful-soup-web-scraper-python/
+### Web SCraping with Beautiful Soup
+https://realpython.com/beautiful-soup-web-scraper-python/
 
